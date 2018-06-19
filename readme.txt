@@ -5,3 +5,5 @@ I hate git.
 Today is 2018.06.11.
 Git has a mutable index called stage.
 A
+B
+C
